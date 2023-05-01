@@ -34,7 +34,7 @@ This graph shows the time in nanoseconds for string search.
 
 The first slider shows the length of the string, and the second shows the size of the alphabet of the string.
 
-Plat with it! :zany_face:
+Play with it! :zany_face:
 
 ### Coverage report
 
